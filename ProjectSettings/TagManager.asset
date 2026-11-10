@@ -11,11 +11,11 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Wild
+  - Player
+  - Interactable
+  - CameraBounds
+  - InputSystemActionInput
   - 
   - 
   - 
@@ -58,6 +58,9 @@ TagManager:
     locked: 0
   - name: decor
     uniqueID: 3070670411
+    locked: 0
+  - name: NPC
+    uniqueID: 18189213
     locked: 0
   m_RenderingLayers:
   - Default
